@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOD3dBKcWnTERFKS5IEVICr",
+      "authorship_tag": "ABX9TyMVvlY7PqlgZA8WH9v0IEsJ",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -47,6 +47,29 @@
       ],
       "source": [
         "print(\"hello world\");"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"does github update automatically?\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "WumOsYpBo3Gr",
+        "outputId": "3ccf235e-3b28-4664-e59b-96417d30dcfc"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "does github update automatically?\n"
+          ]
+        }
       ]
     }
   ]
